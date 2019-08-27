@@ -16,6 +16,14 @@ Jupyter와 Pandas 교육자료
 * pandas_basic_grammer : pandas 기본 문법 설명 jupyter
 * pandas_EDA_1, 2 : pandas를 이용한 EDA 예제1, 2
 
+## Self study 방법
+* jupyter와 친해지려면,
+  1. `쥬피터 마크다운` 노트북을 열어 단축키와 마크다운을 접해본다.
+  2. `jupyter_coding 1&2` 노트북으로 python 문제를 코딩해본다. 이후 정답과 맞춰본다.
+* pandas와 친해지려면,
+  1. `pandas_basic_grammer_solution` 노트북의 정답을 보며 똑같이 실행 해본다. 이 후 `basic_grammer`노트북의 빈칸을 채워본다.
+  2. `EDA_1, 2` 노트북의 빈칸을 채워본다. 채워지지 않는 곳은 solution을 보고 채운뒤 손에 익혀본다.
+
 ## 발표 자료 pdf
 *  [Conda Jupyter Pandas 발표ppt 다운로드](http://bit.ly/ppt_CondaJupyterPandas)
 
