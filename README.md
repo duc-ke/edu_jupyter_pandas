@@ -24,3 +24,5 @@ Jupyter와 Pandas 교육자료
 ### 제1회 유전체 데이터 분석교육 - 생물정보 분석을 위한 리눅스 및 파이썬 기초
 > Linux와 Python을 처음 배우는 생물전공 학생 및 연구원을 위한 교육이였습니다.
 * 19.08.22(목)~19.08.23(금) 8:30-17:00
+
+<img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/67799039_2349120075166284_2327597559733813248_n.jpg?_nc_cat=111&_nc_oc=AQmCjShczWHq9i3FAuRBqlEF7iRMNhhZSGenrLSDEroiFfp1YrxeFczU-nbEN6ySBv0&_nc_ht=scontent-icn1-1.xx&oh=e8fa15462eeab47737d4f07a05261275&oe=5E05BB92" width="50%">
