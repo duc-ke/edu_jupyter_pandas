@@ -34,3 +34,7 @@ Jupyter와 Pandas 교육자료
 * 19.08.22(목)~19.08.23(금) 8:30-17:00
 
 <img src="https://scontent-icn1-1.xx.fbcdn.net/v/t1.0-9/67799039_2349120075166284_2327597559733813248_n.jpg?_nc_cat=111&_nc_oc=AQmCjShczWHq9i3FAuRBqlEF7iRMNhhZSGenrLSDEroiFfp1YrxeFczU-nbEN6ySBv0&_nc_ht=scontent-icn1-1.xx&oh=e8fa15462eeab47737d4f07a05261275&oe=5E05BB92" width="50%">
+
+### 人CoInternship2020/동계 - 파이썬 교육
+> Python을 처음 접하는 회사 인턴쉽을 지원자들을 위한 교육.
+* 20.01.22(수)~20.01.23(목) 오전 10:00-11:20 / 오후 1:00-2:00
